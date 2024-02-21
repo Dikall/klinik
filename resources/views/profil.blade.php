@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h2>Contoh Branch Deni</h2>
+    <h2>Halaman Web</h2>
 </body>
 
 </html>
