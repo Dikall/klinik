@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h2>Halaman Web</h2>
+    <h2>Halaman Profil</h2>
 </body>
 
 </html>
