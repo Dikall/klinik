@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h2>Profile Halaman</h2>
+    <h2>Contoh Branch Deni</h2>
 </body>
 
 </html>
